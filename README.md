@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suleyman-kaya
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning mathematics
-- 💞️ I’m looking to collaborate on [fatqat](https://github.com/suleyman-kaya)
+- 💞️ I’m looking to collaborate on [atomkraft-os](https://github.com/suleyman-kaya/atomkraft-os) and [fatqat](https://github.com/suleyman-kaya/fatqat)
 - 📫 How to reach me mailto:suleymankayaxyz@gmail.com
 
 <!---
