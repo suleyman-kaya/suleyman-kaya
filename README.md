@@ -1,4 +1,5 @@
 ![ai_generated_pythagoras](PYTHAGORAS.png)
+(mailto:)[mailto:]
 <!---
 - 👋 Hi, I’m @suleyman-kaya
 - 👀 I’m interested in computer science
